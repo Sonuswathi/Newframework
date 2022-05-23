@@ -1,1 +1,1 @@
-print("sk")
+print("sks")
